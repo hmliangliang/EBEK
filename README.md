@@ -1,2 +1,1 @@
-# EBEK
-EBEK is a demension reduction algorithm
+EBEK is a demension reduction algorithm.
